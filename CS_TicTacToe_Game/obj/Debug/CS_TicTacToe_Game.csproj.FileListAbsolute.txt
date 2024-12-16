@@ -1,0 +1,11 @@
+C:\Users\Davor\Desktop\C# PROJEKTI 2024\CS_TicTacToe_Game\bin\Debug\CS_TicTacToe_Game.exe.config
+C:\Users\Davor\Desktop\C# PROJEKTI 2024\CS_TicTacToe_Game\bin\Debug\CS_TicTacToe_Game.exe
+C:\Users\Davor\Desktop\C# PROJEKTI 2024\CS_TicTacToe_Game\bin\Debug\CS_TicTacToe_Game.pdb
+C:\Users\Davor\Desktop\C# PROJEKTI 2024\CS_TicTacToe_Game\obj\Debug\CS_TicTacToe_Game.csproj.AssemblyReference.cache
+C:\Users\Davor\Desktop\C# PROJEKTI 2024\CS_TicTacToe_Game\obj\Debug\CS_TicTacToe_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davor\Desktop\C# PROJEKTI 2024\CS_TicTacToe_Game\obj\Debug\CS_TicTacToe_Game.FrmMain.resources
+C:\Users\Davor\Desktop\C# PROJEKTI 2024\CS_TicTacToe_Game\obj\Debug\CS_TicTacToe_Game.Properties.Resources.resources
+C:\Users\Davor\Desktop\C# PROJEKTI 2024\CS_TicTacToe_Game\obj\Debug\CS_TicTacToe_Game.csproj.GenerateResource.cache
+C:\Users\Davor\Desktop\C# PROJEKTI 2024\CS_TicTacToe_Game\obj\Debug\CS_TicTacToe_Game.csproj.CoreCompileInputs.cache
+C:\Users\Davor\Desktop\C# PROJEKTI 2024\CS_TicTacToe_Game\obj\Debug\CS_TicTacToe_Game.exe
+C:\Users\Davor\Desktop\C# PROJEKTI 2024\CS_TicTacToe_Game\obj\Debug\CS_TicTacToe_Game.pdb
